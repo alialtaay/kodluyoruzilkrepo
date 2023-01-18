@@ -11,7 +11,7 @@ README dosyası, bir adet de index.html barındırıyor.
 ```
 git clone https://github.com/alialtaay/kodluyoruzilkrepo.git
 ```
-kodluyoruz.png
+![myimage](kodluyoruz.png)
 
 ## Usage
 
