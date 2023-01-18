@@ -8,9 +8,10 @@ README dosyası, bir adet de index.html barındırıyor.
 
 Öncelikle projeyi clonelayın.
 
-'''git 
+```
 git clone https://github.com/alialtaay/kodluyoruzilkrepo.git
-
+```
+git
 
 ## Usage
 
@@ -18,9 +19,10 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
-'''Linux
+```
 cd kodluyoruzilkrepo
-code . 
+code .
+``` 
 
 
 ## Contributing
